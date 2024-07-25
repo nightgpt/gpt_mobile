@@ -11,7 +11,7 @@
     <string name="openai_description">ChatGPT的创建者</string>
     <string name="anthropic_description">Claude在这里</string>
     <string name="google_description">Gemini在这条路上</string>
-    <string name="next">继续</string>
+    <string name="next">下一个</string>
     <string name="enter_api_key">输入API密钥</string>
     <string name="token_input_description">输入所选平台的密钥，我们不会收集这些数据，密钥和会话只会存储在您的设备上，不会发送到API服务器之外的任何地方</string>
     <string name="clear_token">清空Token</string>
